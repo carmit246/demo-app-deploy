@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/carmit246/demo-app
-  newTag: 344ee534c84aace3dcd02269a52b32d14dd2e945
+  newTag: f6be66196d8107c3f9e22198c11300c6ff94d7a0
